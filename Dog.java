@@ -1,11 +1,16 @@
 package littlewu.classroom.practice;
 
-
+/*新增一個註解*/
+/*一個Git Bash 註解*/
 
 public class Dog implements IWeightable{
 	private String name;
 	private double weight;
+<<<<<<< HEAD
 	private String nickname;
+=======
+	private String nickName;
+>>>>>>> fuck
 	
 	public Dog() {
 		super();
