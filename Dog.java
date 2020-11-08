@@ -6,7 +6,7 @@ package littlewu.classroom.practice;
 public class Dog implements IWeightable{
 	private String name;
 	private double weight;
-	private String nickname;
+	private String nickname;//nickname
 
 	
 	public Dog() {
